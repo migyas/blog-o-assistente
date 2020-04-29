@@ -1,7 +1,6 @@
 import styled from "styled-components"
 import media from "styled-media-query"
-import AniLink from "gatsby-plugin-transition-link/AniLink";
-
+import AniLink from "gatsby-plugin-transition-link/AniLink"
 
 export const PostItemLink = styled(AniLink)`
   color: var(--texts);
@@ -23,7 +22,7 @@ export const PostItemWrapper = styled.section`
   display: flex;
   padding: 2rem 3rem;
   width: 100%;
-  color: var(--black)
+  color: var(--texts);
 
   ${media.lessThan("large")`
     align-items: flex-start;
