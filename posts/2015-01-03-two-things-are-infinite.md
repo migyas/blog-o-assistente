@@ -4,6 +4,7 @@ title: Two thing are infinite
 description: And I'm not sure about the universe.
 category: Misc
 background: "#7AAB13"
+image: url(assets/img/cover.png)
 ---
 
 # Lorem ipsum

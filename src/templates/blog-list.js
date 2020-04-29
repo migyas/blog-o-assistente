@@ -1,4 +1,5 @@
 import React from "react"
+import { graphql } from "gatsby"
 
 import Layout from "../components/Layout"
 import SEO from "../components/seo"
@@ -18,7 +19,11 @@ const BlogList = props => {
 
   return (
     <Layout>
-      <SEO title={postList.frontmatter && postList.frontmatter.title} description={postList.frontmatter && postList.frontmatter.description} image={postList.frontmatter && postList.frontmatter.image} />
+      <SEO
+        title={postList.frontmatter && postList.frontmatter.title}
+        description={postList.frontmatter && postList.frontmatter.description}
+        image={postList.frontmatter && postList.frontmatter.image}
+      />
       <S.ListWrapper>
         {postList.map(
           ({

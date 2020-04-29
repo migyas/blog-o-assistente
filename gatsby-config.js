@@ -4,9 +4,9 @@ const queries = require("./src/utils/algolia_queries")
 
 module.exports = {
   siteMetadata: {
-    title: `My blog`,
-    position: `Development Backend`,
-    description: `A blog about backend development and other cool stuff`,
+    title: `O Assistente`,
+    position: `Blogueiro`,
+    description: `Contribuir com o mercado de trabalho compartilhando conteúdos, dicas e informações.`,
     author: `@myblog`,
     siteUrl: `https://blog-course-gatsby.netlify.app/`,
   },
@@ -75,8 +75,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `John Doe`,
-        short_name: `John Doe`,
+        name: `O Assistente`,
+        short_name: `O Assistente`,
         start_url: `/`,
         background_color: `#16202c`,
         theme_color: `#16202c`,
@@ -88,5 +88,6 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     `gatsby-plugin-offline`,
+    `gatsby-plugin-netlify-cms`,
   ],
 }
