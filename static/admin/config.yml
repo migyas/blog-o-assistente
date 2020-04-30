@@ -2,7 +2,7 @@ backend:
   name: github
   repo: migyas/blog-o-assistente
   branch: master
-  site_domain: https://o-assistente.netlify.app/
+  site_domain: https://o-assistente.netlify.app
 
 publish_mode: editorial_workflow
 media_folder: "static/assets/img"
