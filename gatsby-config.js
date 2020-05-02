@@ -7,7 +7,7 @@ module.exports = {
     title: `O Assistente`,
     position: `Blogueiro`,
     description: `Contribuir com o mercado de trabalho compartilhando conteúdos, dicas e informações.`,
-    author: `@myblog`,
+    author: `@oassistente`,
     siteUrl: `https://blog-course-gatsby.netlify.app/`,
   },
   plugins: [

@@ -12,7 +12,6 @@ const RecommendedPosts = ({ next, previous }) => (
         cover
         direction="left"
         bg={GetThemeColor()}
-        duration={0.6}
         className="previous"
       >
         {previous.frontmatter.title}
@@ -24,7 +23,6 @@ const RecommendedPosts = ({ next, previous }) => (
         cover
         direction="right"
         bg={GetThemeColor()}
-        duration={0.6}
         className="next"
       >
         {next.frontmatter.title}

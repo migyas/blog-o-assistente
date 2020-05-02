@@ -6,9 +6,10 @@ export const PostItemLink = styled(AniLink)`
   color: var(--texts);
   display: flex;
   text-decoration: none;
+  transition: color .8s;
 
   &:hover {
-    color: var(--highlight) !important;
+    color: var(--highlight);
   }
 
   body#grid & {
@@ -22,7 +23,6 @@ export const PostItemWrapper = styled.section`
   display: flex;
   padding: 2rem 3rem;
   width: 100%;
-  color: var(--texts);
 
   ${media.lessThan("large")`
     align-items: flex-start;
