@@ -60,7 +60,7 @@ const MenuBar = () => {
 
             if (window.DISQUS !== undefined) {
               window.DISQUS.reset({
-                reload: true
+                reload: true,
               })
             }
           }}
@@ -77,7 +77,13 @@ const MenuBar = () => {
         >
           {isListMode ? <Grid /> : <List />}
         </S.MenuBarItem>
-        <S.MenuBarItem title="Ir para o topo">
+        <S.MenuBarItem
+          title="Ir para o Topo"
+          onClick={() => {
+            // GA.topClickTrack()
+            window.scroll({ top: 0, behavior: 'smooth' })
+          }}
+        >
           <Arrow />
         </S.MenuBarItem>
       </S.MenuBarGroup>
