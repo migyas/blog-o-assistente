@@ -40,6 +40,7 @@ export const RecommendedLink = styled(AniLink)`
     border-left: 1px solid var(--borders);
   }
   
+
   &.previous:before {
     content: "\\2190";
     margin-right: 0.5rem;
