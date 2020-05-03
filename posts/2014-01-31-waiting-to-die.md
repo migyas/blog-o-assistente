@@ -4,10 +4,12 @@ title: Sobre mim
 description: So say goodbye to love and hold your head up high
 category: svg
 background: "#7d669e"
-image: url(/assets/img/lake.jpg)
+image: url(../static/assets/img/desert.jpg)
 ---
 
 Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [bibendum](http://google.com) eu pulvinar vel, sodales vitae dui.
+
+![Deserto](../static/assets/img/desert.jpg)
 
 Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
 
