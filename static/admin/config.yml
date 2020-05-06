@@ -33,17 +33,17 @@ collections:
           label: "Category",
           name: "category",
           widget: "select",
-          options: ["saúde", "trabalho", "dicas"],
+          options: ["curiosidades", "informações", "dicas"],
         }
-      - {
-          label: "Background",
-          name: "background",
-          widget: "select",
-          options:
-            [
-              { label: "Saúde", value: "#B31917" },
-              { label: "Trabalho", value: "#2DA0C3" },
-              { label: "Dicas", value: "#D6BA32" },
-            ],
-        }
+      # - {
+      #     label: "Background",
+      #     name: "background",
+      #     widget: "select",
+      #     options:
+      #       [
+      #         { label: "curiosidades", value: "#B31917" },
+      #         { label: "informações", value: "#2DA0C3" },
+      #         { label: "dicas", value: "#D6BA32" },
+      #       ],
+      #   }
       - { label: "Body", name: "body", widget: "markdown" }

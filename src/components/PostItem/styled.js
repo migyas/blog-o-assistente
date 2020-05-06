@@ -40,8 +40,8 @@ export const PostItemWrapper = styled.section`
 
 export const PostItemTag = styled.div`
   align-items: center;
-  background: ${props =>
-    props.background ? props.background : "var(--highlight)"};
+  background-image: ${props =>
+    props.backgroundImage ? props.backgroundImage : "url(../../static/assets/img/lake.png)"};
   border-radius: 50%;
   color: var(--white);
   display: flex;
@@ -51,6 +51,7 @@ export const PostItemTag = styled.div`
   min-height: 90px;
   min-width: 90px;
   text-transform: uppercase;
+  padding: 2rem .75rem;
 
   ${media.lessThan("large")`
     border-radius: 0;
