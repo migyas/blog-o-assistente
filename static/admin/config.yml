@@ -35,15 +35,15 @@ collections:
           widget: "select",
           options: ["curiosidades", "informações", "dicas"],
         }
-      # - {
-      #     label: "Background",
-      #     name: "background",
-      #     widget: "select",
-      #     options:
-      #       [
-      #         { label: "curiosidades", value: "#B31917" },
-      #         { label: "informações", value: "#2DA0C3" },
-      #         { label: "dicas", value: "#D6BA32" },
-      #       ],
-      #   }
+      - {
+          label: "Background",
+          name: "background",
+          widget: "image"
+          # options:
+          #   [
+          #     { label: "curiosidades", value: "url()" },
+          #     { label: "informações", value: "#2DA0C3" },
+          #     { label: "dicas", value: "#D6BA32" },
+          #   ],
+        }
       - { label: "Body", name: "body", widget: "markdown" }
