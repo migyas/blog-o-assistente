@@ -16,15 +16,11 @@ Os ganhos financeiros dependem de diversos setores da instituição como, por ex
 
 Por este motivo, ele precisa de atenção redobrada para que não ocorram erros ou inconformidades nas informações. Todos os setores da instituição devem cumprir eficientemente uma sequência de atividades para que o setor de faturamento execute plenamente suas funções.
 
-Nesta publicação, iremos abordar:
-
-Definição de faturamento hospitalar, conta do paciente, relação com a contabilidade hospitalar, quais são seus setores, objetivos e indicadores;
-
-## **<center>O que é faturamento hospitalar</center>** 
+## **<center>O que é faturamento hospitalar</center>**
 
 O setor de faturamento, é basicamente o órgão responsável pela confecção das contas hospitalares dos pacientes. O faturamento também emite: **duplicatas, boletos e notas fiscais.** Além de analisar a cobrança correta de clientes conforme o contrato e seu prontuário.
 
-### **Conta do paciente** 
+### **<center>Conta do paciente</center>**
 
 A conta do paciente é o conjunto de documentos e informações destinados ao **registro de gastos** realizados com o enfermo durante seu atendimento no hospital.
 
@@ -32,7 +28,7 @@ Por causa da realização desses registros, a **conta do paciente** serve como i
 
 Como a contabilidade hospitalar influencia o **faturamento** A contabilidade hospitalar diminui custos e garante a sustentabilidade das instituições. Para que isso aconteça, é preciso investir na gestão em saúde especializada, que direcione corretamente recursos e esforços.
 
-### **Contabilidade**
+### **<center>Contabilidade</center>**
 
 É o setor da **contabilidade** que gere o abastecimento dos itens necessários à assistência. Portanto é necessário conhecer bastante a demanda e realizar compras inteligentes.
 
@@ -50,12 +46,11 @@ Não se trata apenas de reduzir custos, mas também de oferecer destaque à inst
 
 Ao conhecer de forma adequada as suas contas, é possível criar um equilíbrio e elencar prioridades.
 
-### **Setores do faturamento hospitalar**
+### **<center>Setores do faturamento hospitalar</center>**
 
 Para entender melhor sobre o faturamento hospitalar, devemos antes dizer quais são seus setores.
 
-Farmácia; SADT (Serviço Auxiliar Diagnóstico e Terapia); Unidades CO/CC;
-Pronto atendimento / pronto-socorro;
+Farmácia; SADT (Serviço Auxiliar Diagnóstico e Terapia); Unidades CO/CC; Pronto atendimento / pronto-socorro;
 Ambulatório;
 SND (Serviço de Nutrição e Dietética);
 Contabilidade e custos;
@@ -69,7 +64,7 @@ Nas instituições de saúde, é necessário existir uma área de coordenação 
 
 * Dentro disso, podemos listar alguns dos objetivos do faturamento hospitalar:
 * expedir as faturas de cobrança dos serviços prestados (guias às operadoras);
-*  emitir relatórios de controle das faturas emitidas e pendentes; 
+* emitir relatórios de controle das faturas emitidas e pendentes; 
 * manter um sistema de controle que emita informações que permitam obter os dados necessários ao processamento dos relatórios de faturamento;
 * analisar os relatórios de faturas recebidas;
 * verificar as ocorrências de glosas e identificar suas causas;
@@ -77,9 +72,7 @@ Nas instituições de saúde, é necessário existir uma área de coordenação 
 * preparar os recursos de glosas às operadoras para correção e pagamento das mesmas;
 * manter atualizados e organizados, pelo período de no mínimo cinco anos, os comprovantes dos serviços prestados, para atender às auditorias.
 
-
-  Como otimizar o faturamento hospitalar
-  Os altos custos nos serviços de saúde têm trazido aos gestores e profissionais de área, a necessidade de obter mais conhecimento sobre estes problemas.
+  Como otimizar o faturamento hospitalar Os altos custos nos serviços de saúde têm trazido aos gestores e profissionais de área, a necessidade de obter mais conhecimento sobre estes problemas.
 
 A busca por medidas para equilibrá-los com os recursos financeiros, a competência na reserva destes e o aumento de resultados no faturamento hospitalar fazem parte das vantagens obtidas.
 
@@ -97,8 +90,7 @@ Se o procedimento está baseado em protocolo (no caso de procedimentos médicos)
 
 Além disso, podemos citar:
 
-a reestruturação de rotinas (internação e gerenciamento de leitos); o treinamento de pessoal; a informatização;
-a negociação e integração com convênios;
+a reestruturação de rotinas (internação e gerenciamento de leitos); o treinamento de pessoal; a informatização; a negociação e integração com convênios;
 pacotes;
 reanálise de glosas;
 tabelas e outros.
