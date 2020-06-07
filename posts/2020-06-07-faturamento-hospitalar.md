@@ -1,7 +1,9 @@
 ---
 title: Faturamento Hospitalar
-description: "saber o que esse setor faz, "
-date: 2020-06-07 10:18:06
+description: "Nesta publicação iremos abordar: Definição de faturamento
+  hospitalar, conta do paciente, relação com a contabilidade hospitalar, quais
+  são seus setores, objetivos e indicadores;"
+date: 2020-06-07T10:18:06.000Z
 image: assets/img/mussum-ipsum.jpg
 category: informações
 background: assets/img/mountains.jpg
@@ -10,15 +12,15 @@ Vivemos em um mundo altamente competitivo, por isso, controlar bem as contas par
 
 Os ganhos financeiros dependem de diversos setores da instituição como, por exemplo:
 
-**enfermagem; farmácia; diagnóstico; laboratório; nutrição, entre outros.**\
+**enfermagem; farmácia; diagnóstico; laboratório; nutrição, entre outros.**
 
 Por este motivo, ele precisa de atenção redobrada para que não ocorram erros ou inconformidades nas informações. Todos os setores da instituição devem cumprir eficientemente uma sequência de atividades para que o setor de faturamento execute plenamente suas funções.
 
-## Nesta publicação, iremos abordar:
+Nesta publicação, iremos abordar:
 
-# Definição de faturamento hospitalar, conta do paciente, relação com a contabilidade hospitalar, quais são seus setores, objetivos e indicadores;
+Definição de faturamento hospitalar, conta do paciente, relação com a contabilidade hospitalar, quais são seus setores, objetivos e indicadores;
 
-## **O que é faturamento hospitalar** 
+## **<center>O que é faturamento hospitalar</center>** 
 
 O setor de faturamento, é basicamente o órgão responsável pela confecção das contas hospitalares dos pacientes. O faturamento também emite: **duplicatas, boletos e notas fiscais.** Além de analisar a cobrança correta de clientes conforme o contrato e seu prontuário.
 
